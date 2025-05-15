@@ -1,9 +1,7 @@
 # Docs Repository 📚
 
 ## Description  
-A centralized reference for documentation, commands, and useful DevOps resources.  
-
-## Overview
+A centralized reference for documentation, commands, and useful DevOps resources.
 This repository contains:  
 - 📜 **Command References**: Bash, Docker, Kubernetes, and more.  
 - 📖 **Technical Documentation**: API references, best practices, and workflow guidelines.  
